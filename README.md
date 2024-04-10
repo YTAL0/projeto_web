@@ -4,7 +4,7 @@ Breve descrição do que o seu projeto faz.
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+Francisco Ytalo Nunes Batista - 540432
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
