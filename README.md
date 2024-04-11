@@ -10,10 +10,9 @@ Francisco Ytalo Nunes Batista - 540432 - CIência da computação
 
 - Usuário não cadastrado
 - Usuário cadastrado
-- Administrador
+- Leiloeiro 
 
-
-## :spiral_calendar: 
+## :spiral_calendar: Papéis ou tipos de usuário da aplicação
 
 - Leilão
 - Item
@@ -23,7 +22,9 @@ Francisco Ytalo Nunes Batista - 540432 - CIência da computação
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
+- Usuário não cadastrado apenas pode ver o leioões que estão acontecendo.
+- Usuário cadastrado pode ver o leilões que estão acontecendo, e realizar lances
+- Leiloeiro pode criar, iniciar e dar fim aos leilões.
 
 
 ----
