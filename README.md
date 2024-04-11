@@ -13,11 +13,12 @@ Francisco Ytalo Nunes Batista - 540432 - CIência da computação
 - Administrador
 
 
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+## :spiral_calendar: 
+-Leilão
+-Item
+-Lance
+-Usuário
 
-## :spiral_calendar: Entidades ou tabelas do sistema
-
-Liste as principais entidades do sistema.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
