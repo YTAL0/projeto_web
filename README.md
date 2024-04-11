@@ -14,10 +14,11 @@ Francisco Ytalo Nunes Batista - 540432 - CIência da computação
 
 
 ## :spiral_calendar: 
--Leilão
--Item
--Lance
--Usuário
+
+- Leilão
+- Item
+- Lance
+- Usuário
 
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
