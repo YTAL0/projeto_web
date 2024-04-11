@@ -1,14 +1,17 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: LIVRESSE
 
-Breve descrição do que o seu projeto faz.
+Site para realizar leilões de livros
 
 ## :technologist: Membros da equipe
 
-Francisco Ytalo Nunes Batista - 540432
+Francisco Ytalo Nunes Batista - 540432 - CIência da computação
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
+- Usuário não cadastrado
+- Usuário cadastrado
+- Administrador
+
 
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
